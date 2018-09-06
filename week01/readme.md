@@ -1,11 +1,17 @@
 # week01
 
+## Links for this week's discussion
+
+	+ [Borges, On Exactitude in Science](https://en.wikipedia.org/wiki/On_Exactitude_in_Science)
+	+ [Is Reality Real? The Simulation Argument](https://www.youtube.com/watch?v=tlTKTTt47WE)
+	+ [If we're living in a simulation, this UK startup probably built it](https://www.wired.co.uk/article/improbable-quest-to-build-the-matrix)
+
+## Tuesday
+
 + Introductions
 	+ Name, preferred pronoun, what you hope to get out of this class, if you're involved with any cool happenings in the near future
 
-+ Game of Life
-	+ [Interview w Don Conway](https://www.youtube.com/watch?v=FdMzngWchDk)
-	+ [Stephen Hawkings series](https://www.youtube.com/watch?v=CgOcEZinQ2I)
++ Discussion of texts
 
 + Simulation Art examples
 	+ Some of my work
@@ -27,10 +33,19 @@
 
 + Fill out a [questionnaire](https://docs.google.com/document/d/1NpkUYpFzEOpsQmp27Z3kyoiJxJs_EmC-aVyQVmdWaZI/edit?usp=sharing)
 
-+ Links for discussion
-	+ [Borges, On Exactitude in Science](https://en.wikipedia.org/wiki/On_Exactitude_in_Science)
-	+ [Is Reality Real? The Simulation Argument](https://www.youtube.com/watch?v=tlTKTTt47WE)
-	+ [If we're living in a simulation, this UK startup probably built it](https://www.wired.co.uk/article/improbable-quest-to-build-the-matrix)
+## Thursday
 
-+ Extra
-	+ For those interested in what Unity can do professionally, and pushing limits with graphics [they curate a list of projects](https://blogs.unity3d.com/category/made-with-unity/)
++ Class screening
+	+ [Nicki Case - Explorable Explanations](https://www.youtube.com/watch?v=Zl9m0AQInBk)
+
++ [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+	+ [Interview w Don Conway](https://www.youtube.com/watch?v=FdMzngWchDk)
+	+ [Stephen Hawkings series](https://www.youtube.com/watch?v=CgOcEZinQ2I)
+
++ Lab
+	+ [Simulating the World with Emojis](http://ncase.me/simulating/)
+		+ [Direct link to editor](http://ncase.me/simulating/model/)
+
++ Project 1 (draft) due Tuesday
+	+ Simulate a System
+		+ Think about a system. This can be a social, economic, natural, or any other type of system you can think of. Using Nicky Case's simulation builder [Simulating the World with Emojis](http://ncase.me/simulating/model/), build a representation of that system. You will need to experiment to get the best results. Case's system might require you to pare down the forces at work, or re-think of the system as something inherently cartographic. Remember you can change the size of the simulation (in some cases, larger might be better).
