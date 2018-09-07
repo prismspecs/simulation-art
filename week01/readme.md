@@ -2,9 +2,9 @@
 
 ## Links for this week's discussion
 
-	+ [Borges, On Exactitude in Science](https://en.wikipedia.org/wiki/On_Exactitude_in_Science)
-	+ [Is Reality Real? The Simulation Argument](https://www.youtube.com/watch?v=tlTKTTt47WE)
-	+ [If we're living in a simulation, this UK startup probably built it](https://www.wired.co.uk/article/improbable-quest-to-build-the-matrix)
++ [Borges, On Exactitude in Science](https://en.wikipedia.org/wiki/On_Exactitude_in_Science)
++ [Is Reality Real? The Simulation Argument](https://www.youtube.com/watch?v=tlTKTTt47WE)
++ [If we're living in a simulation, this UK startup probably built it](https://www.wired.co.uk/article/improbable-quest-to-build-the-matrix)
 
 ## Tuesday
 
@@ -46,6 +46,7 @@
 	+ [Simulating the World with Emojis](http://ncase.me/simulating/)
 		+ [Direct link to editor](http://ncase.me/simulating/model/)
 
-+ Project 1 (draft) due Tuesday
-	+ Simulate a System
-		+ Think about a system. This can be a social, economic, natural, or any other type of system you can think of. Using Nicky Case's simulation builder [Simulating the World with Emojis](http://ncase.me/simulating/model/), build a representation of that system. You will need to experiment to get the best results. Case's system might require you to pare down the forces at work, or re-think of the system as something inherently cartographic. Remember you can change the size of the simulation (in some cases, larger might be better).
+## Project 1 (draft) due Tuesday
+
++ Simulate a System
+	+ Think about a system. This can be a social, economic, natural, or any other type of system you can think of. Using Nicky Case's simulation builder [Simulating the World with Emojis](http://ncase.me/simulating/model/), build a representation of that system. You will need to experiment to get the best results. Case's system might require you to pare down the forces at work, or re-think of the system as something inherently cartographic. Remember you can change the size of the simulation (in some cases, larger might be better).
