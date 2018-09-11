@@ -8,7 +8,9 @@
 ## Relevant work
 
 + [Tyson Ibele](https://www.instagram.com/_tyflow_/)
++ [Predictive Art Bot](http://predictiveartbot.com/)
 + [Reddit /r/ Simulated](https://www.reddit.com/r/Simulated)
++ [BEEPLE](https://www.beeple-crap.com/vjloops)
 
 ## Tuesday
 
@@ -33,3 +35,7 @@
 
 + Unity Tutorial(s) for this week
 	+ [Interface & Essentials](https://unity3d.com/learn/tutorials/topics/interface-essentials)
+
++ Homework
+	+ 2nd iteration of simulation
+	+ Create a visual environment inside of Unity
