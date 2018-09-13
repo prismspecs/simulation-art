@@ -46,6 +46,26 @@
 		+ OnMouseOver
 		+ transform.localScale
 
++ Notes (list of things we talked about)
+	+ variables
+	  + float
+	    + number w decimal point
+	  + Vector3(x,y,z)
+	+ transform
+	  + .Rotate
+	    + need to use parentheses and supply values inside
+	    + transform.Rotate(x,y,z)
+	  + .localScale
+	    + transform.localScale += Vector3
+	  + .position
+	+ materials
+	  + this is how you change color
+	+ public gives access to things outside (like in Unity Editor)
+	+ Time.deltaTime
+	  + make things happen per second as opposed to per frame
+	+ Random
+	  + Random.Range(x,y) outputs a number between x and y
+
 ## Unity Tutorial(s) for this week
 + [Interface & Essentials](https://unity3d.com/learn/tutorials/topics/interface-essentials)
 
