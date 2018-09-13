@@ -33,9 +33,22 @@
 		+ Inspector
 			+ Transform, components...
 
-+ Unity Tutorial(s) for this week
-	+ [Interface & Essentials](https://unity3d.com/learn/tutorials/topics/interface-essentials)
+## Thursday
 
-+ Homework
-	+ 2nd iteration of simulation
-	+ Create a visual environment inside of Unity
++ Unity Workshop
+	+ Scripting
+		+ Variables
+		+ transform.Rotate
+		+ Time.deltaTime
+		+ renderer
+		+ OnMouseEnter
+		+ OnMouseExit
+		+ OnMouseOver
+		+ transform.localScale
+
+## Unity Tutorial(s) for this week
++ [Interface & Essentials](https://unity3d.com/learn/tutorials/topics/interface-essentials)
+
+## Homework
++ 2nd iteration of simulation (due next Tues)
++ Create a visual environment inside of Unity (due this Thurs)
