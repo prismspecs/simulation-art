@@ -16,8 +16,6 @@
 + Discuss
 	+ Check-in about Unity
 
-## Tuesday
-
 + Review
 	+ Variable/Types
 		+ float
