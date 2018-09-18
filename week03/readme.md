@@ -12,7 +12,6 @@
 ## Tuesday
 
 + Exhibit & Discuss Project 1 v2
-	+ Due next week, 2nd iteration of simulation
 
 + Discuss
 	+ Check-in about Unity
