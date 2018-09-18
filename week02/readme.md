@@ -68,6 +68,7 @@
 
 ## Unity Tutorial(s) for this week
 + [Interface & Essentials](https://unity3d.com/learn/tutorials/topics/interface-essentials)
++ [Scripting 1-5](https://unity3d.com/learn/tutorials/s/scripting)
 
 ## Homework
 + 2nd iteration of simulation (due next Tues)
