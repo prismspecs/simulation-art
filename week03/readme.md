@@ -48,7 +48,7 @@
 ## Homework
 + Finish visual environments inside of Unity (due this Thurs)
 + Play
-	+ [Sim City 2000](https://www.myabandonware.com/game/simcity-2000-1nf/play-1nf)
+	+ [Sim City 2000](https://classicreload.com/simcity-2000.html)
 + Read for next week
 	+ [Les Simerables](https://www.jacobinmag.com/2014/10/les-simerables/)
 	+ [Is 'SimCity' Homelessness a Bug or a Feature?](https://motherboard.vice.com/en_us/article/qkvnvm/is-simcity-homelessness-a-bug-or-a-feature)
