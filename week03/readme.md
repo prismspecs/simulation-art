@@ -64,7 +64,7 @@
 
 ## Homework
 + Finish visual environments inside of Unity (due this Thurs)
-+ Create a dynamic movement simulation using the LookAt, move forward, repel, etc. scripts we played with in class. Add some behavior to objects, such as
++ Create a dynamic movement simulation using the LookAt, move forward, repel, etc. scripts we played with in class. (This is due in full on Thursday but I want to see progress on Tuesday). Add some behavior to objects, such as
 	+ When they collide, something happens
 	+ Every so often, they switch from repel to attract
 	+ There are random obstacles
