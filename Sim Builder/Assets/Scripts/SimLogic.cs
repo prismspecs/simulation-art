@@ -5,26 +5,30 @@ using UnityEngine;
 public class SimLogic : MonoBehaviour {
 
     public float Interval = 1.0f;
-    private float LastChecked = -99f;
+    private float LastChecked = 0f;
 
     public float Density = .4f;
     public int Columns = 20;
     public int Rows = 20;
 
-    public GameObject ThingToSpawn;
+    public GameObject AliveCell;
+    public GameObject DeadCell;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 
         // create a bunch of agents
         for (int x = 0; x < Columns; x++)
         {
             for (int y = 0; y < Rows; y++)
             {
+                Vector3 here = new Vector3(x, 0, y);
+
                 if (Random.value > 1 - Density)
                 {
-                    Vector3 here = new Vector3(x, 0, y);
-                    Instantiate(ThingToSpawn, here, Quaternion.identity);
+                    Instantiate(AliveCell, here, Quaternion.identity);
+                } else {
+                    Instantiate(DeadCell, here, Quaternion.identity);
                 }
             }
         }
@@ -39,6 +43,7 @@ public class SimLogic : MonoBehaviour {
 
             foreach (GameObject go in gos) {
                 go.BroadcastMessage("SimUpdate");
+                Debug.Log("updated");
             }
             //BroadcastMessage("SimUpdate");
         }

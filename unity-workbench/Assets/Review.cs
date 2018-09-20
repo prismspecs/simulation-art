@@ -8,17 +8,22 @@ public class Review : MonoBehaviour {
     public float myFloat;
     public float myOtherFloat = 1;
 
+    
+
 	// Use this for initialization
-	void Start () {
+    void Start () {
+
+
         myFloat = Random.Range(-2f, 2f);
 
         float sum = myFloat + myOtherFloat;
 
         Debug.Log(sum);
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
 }

@@ -283,12 +283,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 551f1c6fd127e495eb16b367cd4a3ee9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Interval: 1
+  Interval: 0.5
   Density: 0.4
   Columns: 20
   Rows: 20
-  ThingToSpawn: {fileID: 1525024749013576, guid: 9378661cbed704678b10e96a4cf9d539,
-    type: 2}
+  AliveCell: {fileID: 1525024749013576, guid: 9378661cbed704678b10e96a4cf9d539, type: 2}
+  DeadCell: {fileID: 1621841127093278, guid: 424561fa20d9f48b5ba371f108accbf0, type: 2}
 --- !u!4 &1343218503
 Transform:
   m_ObjectHideFlags: 0

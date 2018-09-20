@@ -2,11 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Agent : MonoBehaviour {
-
-    public Collider Feeler; // what is used to check for surrounding agents
+public class Life_AliveCell : MonoBehaviour {
 
     public int NeighborCount;
+    public GameObject DeadCell;
 
 	// Use this for initialization
 	void Start () {
@@ -15,8 +14,8 @@ public class Agent : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
-	}
+        CheckNeighbors();
+    }
 
     // called from global system
     public void SimUpdate() {
@@ -24,16 +23,33 @@ public class Agent : MonoBehaviour {
         // we want to check against the results of the last "frame" of the simulation
         // so update neighbor count after
 
-        if(NeighborCount <= 2) {
+        CheckNeighbors();
+
+        if(NeighborCount < 2) {
             Destroy(this.gameObject);
+            Instantiate(DeadCell, transform.position, Quaternion.identity);
         }
 
-        
+        if (NeighborCount > 3)
+        {
+            Destroy(this.gameObject);
+            Instantiate(DeadCell, transform.position, Quaternion.identity);
+        }
     }
 
     private void CheckNeighbors() {
         // how many neighbors?
         Collider[] hitColliders = Physics.OverlapBox(gameObject.transform.position, transform.localScale, Quaternion.identity);
+
+        //NeighborCount = 0;
+
+        //for (int i = 0; i < hitColliders.Length; i++)
+        //{
+        //    if (hitColliders[i].name == "Life_Alive(Clone)") {
+        //        NeighborCount++;
+        //    }
+        //}
+
         NeighborCount = hitColliders.Length - 1;
         //Debug.Log(hitColliders.Length);
     }

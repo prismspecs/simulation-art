@@ -19,6 +19,7 @@ public class LookAt : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
         // calculate how fast this should happen
         float step = speed * Time.deltaTime;
 
