@@ -21,7 +21,7 @@ public class AddForce : MonoBehaviour {
 		
         if(Time.time > LastTimer + Interval) {
 
-            GetComponent<Rigidbody>().AddForce(Vector3.up * Force);
+            GetComponent<Rigidbody>().AddForce(Vector3.forward * Force);
 
             LastTimer = Time.time;
 

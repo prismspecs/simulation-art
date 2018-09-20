@@ -64,6 +64,12 @@
 
 ## Homework
 + Finish visual environments inside of Unity (due this Thurs)
++ Create a dynamic movement simulation using the LookAt, move forward, repel, etc. scripts we played with in class. Add some behavior to objects, such as
+	+ When they collide, something happens
+	+ Every so often, they switch from repel to attract
+	+ There are random obstacles
+	+ There are random or sequential environmental changes
+	+ There are objects that have entirely different behavioral styles
 + Play
 	+ [Sim City 2000](https://classicreload.com/simcity-2000.html)
 + Read for next week
