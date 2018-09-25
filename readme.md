@@ -10,7 +10,7 @@ https://www.are.na/grayson-earle/simulation-r1zamymvdpy
 
 ## Description
 
-Game design enables a new rhetorical form in which systems can be expressed. In this class we will look at artists and game designers who work within the paradigm of digital simulation and game strategy. We will utilize software such as Unity3d, board games, and other media to simulate, or "gamify," the inner workings of the social, economic, and political systems around us. This class is a studio/seminar hybrid, so students should be prepared to read, discuss, create, and critique. 
+Game design enables a new rhetorical form in which systems can be expressed. In this class we will look at artists and game designers who work within the paradigm of digital simulation and game strategy. We will utilize software such as Unity3d, board games, and other media to simulate, or "gamify," the inner workings of the social, economic, and political systems around us. This class is a studio/seminar hybrid, so students should be prepared to read, discuss, create, and critique.
 
 ## Learning Goals
 
@@ -46,7 +46,7 @@ College is an incredible time of discovery, opportunity, and excitement. College
 
 ## Media Lab & Etiquette
 
-You will need to use the Media Lab outside of class in order to complete your projects. Please refer to the lab monitor hours on the door. 
+You will need to use the Media Lab outside of class in order to complete your projects. Please refer to the lab monitor hours on the door.
 
 Keep the Media Lab neat and tidy. Remember that this is a shared workspace, and to be courteous of other students and their projects.
 
@@ -75,7 +75,7 @@ Keep the Media Lab neat and tidy. Remember that this is a shared workspace, and 
 	+ As a practical Unity exercise, create an autonomous environment that represents data. This project will respond to the needs of the class, so more info TBA.
 3. Final Project
 	+ Produce something in a medium of your choice that engages with the topics we've explored in class. This will likely be a simulation, though you may choose to embody this in physical performance, a board game, a Unity-based simulation, an experimental lecture, etc.
-	
+
 ## Disclaimer
 
 This syllabus is subject to change. Students who miss class are responsible for learning about any changes to the syllabus.
@@ -106,7 +106,7 @@ This syllabus is subject to change. Students who miss class are responsible for 
 + Unity Workshop
 
 + Unity Tutorial(s) for this week
-	+ [Interface & Essentials](https://unity3d.com/learn/tutorials/topics/interface-essentials) 
+	+ [Interface & Essentials](https://unity3d.com/learn/tutorials/topics/interface-essentials)
 
 ### w3 (9/18, 9/20)
 
@@ -177,7 +177,7 @@ This syllabus is subject to change. Students who miss class are responsible for 
 + Discuss
 	+ [Ian Cheng's Emissaries](https://www.youtube.com/watch?v=TO6Luilc4Bo)
 	+ [Welcome to the Sentient Atoll: the artist brings his cyberbiological worlds to MoMA PS1](http://www.pilarcorrias.com/wp-content/uploads/2015/03/Ian-Cheng-4Columns.pdf)
-	+ [The Cyborg Anthropologist Ian Cheng Discusses His Sentient Art Works](http://www.artnews.com/2016/03/31/the-cyborg-anthropologist-ian-cheng-discusses-his-sentient-art-works/)	
+	+ [The Cyborg Anthropologist Ian Cheng Discusses His Sentient Art Works](http://www.artnews.com/2016/03/31/the-cyborg-anthropologist-ian-cheng-discusses-his-sentient-art-works/)
 
 + Unity Workshop
 
