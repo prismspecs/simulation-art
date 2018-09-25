@@ -2,7 +2,7 @@
 
 ## Announcements
 
-![moumni.jpg](Painting a Nation)
+![Painting a Nation event invite](moumni.jpg)
 
 ## Links for this week's discussion
 
