@@ -13,8 +13,10 @@ public class playsound : MonoBehaviour {
 
     void Update()
     {
+        //myAudio.pitch = Random.Range(0f,1f);
+
         // check for keyboard inputs
-        if (Input.GetKey(KeyCode.F))
+        if (Input.GetKeyDown(KeyCode.F))
         {
             // either play the audio clip that is already attached
             // to the audio source, or play an arbitrary clip
@@ -22,7 +24,7 @@ public class playsound : MonoBehaviour {
             myAudio.PlayOneShot(clip1);
         }
 
-        if (Input.GetKey(KeyCode.G))
+        if (Input.GetKeyDown(KeyCode.G))
         {
             //myAudio.Play();
             myAudio.PlayOneShot(clip2);
