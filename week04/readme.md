@@ -31,8 +31,10 @@
 
 ## Homework
 
-+ Play
++ Play (for Tuesday!)
 	+ [McDonalds Game](http://www.mcvideogame.com/)
 	+ [Nova Alea](http://molleindustria.org/nova-alea/)
-+ Read
++ Read (for Tuesday!)
 	+ [The Rhetoric of Video Games](http://www.cogsci.rpi.edu/public_html/ruiz/EGDFall2013/readings/RhetoricVideoGames_Bogost.pdf)
++ Create
+	+ A soundscape within Unity. This can contain interactive & visual components as well, but sound must be a primary aesthetic aspect. Due Thursday.
