@@ -12,8 +12,6 @@
 
 ## Tuesday
 
-+ Check out Dynamic Simulations homework
-
 + Discuss
 	+ [Les Simerables](https://www.jacobinmag.com/2014/10/les-simerables/)
 	+ [Is 'SimCity' Homelessness a Bug or a Feature?](https://motherboard.vice.com/en_us/article/qkvnvm/is-simcity-homelessness-a-bug-or-a-feature)
@@ -22,7 +20,11 @@
 
 ## Thursday
 
++ Exhibit Dynamic Simulations homework
 
++ Short demo on Keyboard Input
+	+ [Input.GetKey](https://docs.unity3d.com/ScriptReference/Input.GetKey.html)
+	+ [Input.GetAxis](https://docs.unity3d.com/ScriptReference/Input.GetAxis.html)
 
 ## Unity Tutorial(s) for this week
 + [Scripting 7-28](https://unity3d.com/learn/tutorials/s/scripting)
@@ -32,3 +34,5 @@
 + Play
 	+ [McDonalds Game](http://www.mcvideogame.com/)
 	+ [Nova Alea](http://molleindustria.org/nova-alea/)
++ Read
+	+ [The Rhetoric of Video Games](http://www.cogsci.rpi.edu/public_html/ruiz/EGDFall2013/readings/RhetoricVideoGames_Bogost.pdf)
