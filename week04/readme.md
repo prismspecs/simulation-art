@@ -32,7 +32,7 @@
 ## Homework
 
 + Play (for Tuesday!)
-	+ [McDonalds Game](http://www.mcvideogame.com/)
+	+ [McDonalds Game](http://www.mcvideogame.com/downloads-eng.html)
 	+ [Nova Alea](http://molleindustria.org/nova-alea/)
 + Read (for Tuesday!)
 	+ [The Rhetoric of Video Games](http://www.cogsci.rpi.edu/public_html/ruiz/EGDFall2013/readings/RhetoricVideoGames_Bogost.pdf)
