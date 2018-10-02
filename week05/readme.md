@@ -7,6 +7,7 @@
 + [McDonalds Game](http://www.mcvideogame.com/downloads-eng.html)
 + [Nova Alea](http://molleindustria.org/nova-alea/)
 + [The Rhetoric of Video Games](http://www.cogsci.rpi.edu/public_html/ruiz/EGDFall2013/readings/RhetoricVideoGames_Bogost.pdf)
+	+ [Harpooned: Video Eassay on Procedural Rhetoric](https://www.youtube.com/watch?v=v-qC9gg_EQA)
 
 ## Tuesday
 
