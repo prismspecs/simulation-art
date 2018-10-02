@@ -25,6 +25,8 @@
 
 + Exhibit Soundscape Environments
 
++ [Screening: The Five Obstructions](https://oberlin.kanopy.com/video/five-obstructions)
+
 ## Unity Tutorial(s) for this week
 
 + [Unity Audio](https://unity3d.com/learn/tutorials/s/audio)
