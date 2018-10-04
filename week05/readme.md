@@ -32,3 +32,10 @@
 + [Unity Audio](https://unity3d.com/learn/tutorials/s/audio)
 
 ## Homework
+
++ Due next Thursday:
+	+ Inspired by The Five Obstructions, create a Unity project with the following limitations:
+		1. All materials must be derived from Jerry Seinfeld
+		2. Your scene may contain either fewer than 6 Game Objects or more than 3,000
+		3. Every Game Object responds to input
+		4. It must address the following question: "What is your favorite book?"
