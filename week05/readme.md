@@ -2,6 +2,11 @@
 
 ## Announcements
 
+## Relevant Work
+
++ [Radiohead - Polyfauna](https://www.youtube.com/watch?v=mUgLFXFktgA)
++ [Ape Out!](https://store.steampowered.com/app/447150/APE_OUT/)
+
 ## Links for this week's discussion
 
 + [McDonalds Game](http://www.mcvideogame.com/downloads-eng.html)
