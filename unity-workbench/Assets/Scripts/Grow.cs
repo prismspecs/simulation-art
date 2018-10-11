@@ -6,6 +6,8 @@ public class Grow : MonoBehaviour {
 
     public Vector3 GrowBy;
 
+    public Vector3 ShrinkBy;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -20,5 +22,12 @@ public class Grow : MonoBehaviour {
     {
         transform.localScale += GrowBy;
         //GetComponent<Renderer>().material.color = Color.red;
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if(collision.gameObject.name == "Plane"){
+            transform.localScale -= ShrinkBy;
+        }
     }
 }
