@@ -4,13 +4,7 @@
 
 ## Links for this week's discussion
 
-## Relevant work
-
-+ [Trevor Paglen - Terminal Air](http://countermapcollection.org/collection/terminal-air/)
-+ [Josh Begley - Best of Luck with the Wall](https://vimeo.com/189015526)
-+ [Forensic Architecture](https://www.forensic-architecture.org/)
-	+ [BBC short](https://www.youtube.com/watch?v=ehvtpGzF1r4)
-	+ [Plataforma Ayotzinapa](http://www.plataforma-ayotzinapa.org/)
++ [Navigating Neoliberalism](https://medium.com/after-us/navigating-neoliberalism-f9fae2405488)
 
 ## Tuesday
 
@@ -38,6 +32,13 @@
 		> Cognitive mapping, therefore, risks generating only an aesthetics of the technical sublime — one which awes us with overwhelming amounts of data, but provides little cognitive purchase on the underlying mechanisms. It is this which binds many contemporary artistic attempts to render global finance visible. We are left with, at best, being physiologically manipulated into Stendhal syndrome. Cognitive mapping left at the level of the technical sublime provides us with no cognitive and sensible leverage over our future. In particular, it remains incapable of overcoming the contemporary dystopian vision of the future. According to Marxist theorist Franco Berardi, ‘The future becomes a threat when the collective imagination becomes incapable of seeing alternatives to trends leading to devastation, increased poverty, and violence’. The entrenched nature of global capitalism — the zombie neoliberalism stumbling on even after its death blow — rends the future into an implacably dystopian time. Climate change, resource wars, social conflict, rising inequality and greater militarisation are all the phenomenological givens of the future.
 
 		> Yet if an aesthetics of big data is incapable of rendering this complexity tractable, then what is necessary is a transformation of the aesthetic sublime into an aesthetics of the interface. The latter indexes the mediation between big and complex data on the one hand, and our finite cognitive capacities on the other. In this space, art can become a weaponised political tool.
+
++ Work
+	+ [Trevor Paglen - Terminal Air](http://countermapcollection.org/collection/terminal-air/)
+	+ [Josh Begley - Best of Luck with the Wall](https://vimeo.com/189015526)
+	+ [Forensic Architecture](https://www.forensic-architecture.org/)
+		+ [BBC short](https://www.youtube.com/watch?v=ehvtpGzF1r4)
+		+ [Plataforma Ayotzinapa](http://www.plataforma-ayotzinapa.org/)
 
 ## Unity Tutorial(s) for this week
 
