@@ -183,6 +183,8 @@ This syllabus is subject to change. Students who miss class are responsible for 
 
 ### w9 (11/6, 11/8)
 
++ Exhibit Project 2 (11/6)
+
 + Discuss
 	+ [Humans of Simulated New York](https://spaceandtim.es/projects/hosny/)
 	+ The Founder
