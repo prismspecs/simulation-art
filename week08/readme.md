@@ -23,3 +23,5 @@
 ## Unity Tutorial(s) for this week
 
 ## Homework
+
++ Project 2 due Tuesday 11/6
