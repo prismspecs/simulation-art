@@ -22,6 +22,8 @@
 
 ## Unity Tutorial(s) for this week
 
++ [Animator](https://unity3d.com/learn/tutorials/topics/animation/animator-component?playlist=17099)
+
 ## Homework
 
 + Project 2 due Tuesday 11/6
