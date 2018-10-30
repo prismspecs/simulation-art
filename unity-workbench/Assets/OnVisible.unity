@@ -183,8 +183,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 24998686}
-  m_LocalRotation: {x: -0.25188842, y: 0.7070355, z: -0.30337396, w: -0.58704114}
-  m_LocalPosition: {x: 8.651773, y: 6.918357, z: 0.9769947}
+  m_LocalRotation: {x: -0.19980757, y: 0.7229527, z: -0.23343284, w: -0.61880976}
+  m_LocalPosition: {x: 4.7757206, y: 2.9147673, z: 0.26118457}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -269,6 +269,7 @@ GameObject:
   - component: {fileID: 719990044}
   - component: {fileID: 719990048}
   - component: {fileID: 719990043}
+  - component: {fileID: 719990049}
   m_Layer: 0
   m_Name: Cylinder
   m_TagString: Untagged
@@ -355,13 +356,13 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 719990042}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.4843517, z: 0, w: -0.8748734}
   m_LocalPosition: {x: 3.117603, y: 1.5447061, z: -0.023902476}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 282.06207}
+  m_LocalEulerAnglesHint: {x: 0, y: 662.06, z: 360}
 --- !u!114 &719990048
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -374,3 +375,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myAnimator: {fileID: 719990043}
+--- !u!114 &719990049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 719990042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b716748055641c8b072000f77530cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
