@@ -1,9 +1,11 @@
-# NavMesh tutorial
-## Condensed from [Brackeys](https://www.youtube.com/watch?v=CHV1ymlw-P8)
+# NavMesh Guide
+
+This guide was Condensed from [Brackeys](https://www.youtube.com/watch?v=CHV1ymlw-P8)
 
 ![result](navmesh-result.gif)
 
 ### Necessary Files
+
 + [NavMeshComponents Folder](https://github.com/prismspecs/simulation-art/releases/download/1/NavMeshComponents.zip)
 
 ### Creating a NavMesh for autonomous agent movement
@@ -47,7 +49,7 @@ public class PlayerController : MonoBehaviour {
     // reference to our player with the agent script attached
     public NavMeshAgent agent;
 
-	void Update () {
+		void Update () {
         // right click
         if(Input.GetMouseButtonDown(1)) {
             // create a ray that fires from camera and intersects with
@@ -66,7 +68,7 @@ public class PlayerController : MonoBehaviour {
                 agent.SetDestination(hit.point);
             }
         }
-	}
+		}
 }
 ```
 
