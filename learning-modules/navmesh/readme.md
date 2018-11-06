@@ -1,6 +1,8 @@
 # NavMesh tutorial
 ## Condensed from [Brackeys](https://www.youtube.com/watch?v=CHV1ymlw-P8)
 
+![result](navmesh-result.gif)
+
 ### Necessary Files
 + [NavMeshComponents Folder](https://github.com/prismspecs/simulation-art/releases/download/1/NavMeshComponents.zip)
 
