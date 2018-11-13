@@ -31,4 +31,7 @@
 
 ## Homework
 
-+ Final Project proposal due Thursday
++ Write a final project proposal due Thursday, include
+	+ 100-250 word conceptual description of the project
+	+ 100-250 word technical description of the project
+	+ A rough sketch of the project idea
