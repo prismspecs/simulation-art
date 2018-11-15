@@ -25,7 +25,9 @@
 
 ## Thursday
 
-
++ More DnD
++ Review Final Project Proposals
++ [Bonus](https://www.youtube.com/watch?v=Ds2mIS6w8p0)
 
 ## Unity Tutorial(s) for this week
 
